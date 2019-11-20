@@ -1,0 +1,3 @@
+require version-baseband=2.3.C11.1-00026
+require version-modem=2019-10-0314:38:14
+require version-vendor=1570130903
